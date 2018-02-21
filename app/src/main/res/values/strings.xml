@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastDemo</string>
+    <string name="edit_text">Enter your text</string>
+    <string name="button">Show as toast</string>
+</resources>
